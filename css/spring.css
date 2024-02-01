@@ -78,12 +78,12 @@ body {
   
  */
 .hr {
-  border-bottom: 1px solid #848484;
+  border-bottom: 1px solid black;
 }
 
 footer {
   text-align: center;
-  color: #848484;
+  color: black;
   margin-bottom: 10px;
   padding-top: 10px;
 }
